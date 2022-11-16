@@ -3,6 +3,7 @@ GRN, a graph registration network as a plug-in to conventional GNN classifiers t
 by Zeynep Gürler and Mohammed Amine Gharsallaoui. Please contact zeynepgurler1998@gmail.com for inquiries. Thanks.
  
 > **Graph registration network for boosting diagnosis of neurological disorders**
+> 
 > [Zeynep Gürler](https://github.com/zeynepgurler)<sup>1</sup>, [Mohammed Amine Gharsallaoui](https://basira-lab.com/)<sup>1,2</sup>, [Islem Rekik](https://basira-lab.com/)<sup>1</sup>
 > <sup>1</sup>BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey
 > <sup>2</sup>National School for Computer Science (ENSI), Mannouba, Tunisia
