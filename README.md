@@ -1,4 +1,4 @@
-# GRN 
+# GRN: Graph Registration Network 
 GRN, a graph registration network as a plug-in to conventional GNN classifiers to register graphs into a fixed connectional template for boosting the predictive power of GNN classifiers, coded up in Python
 by Zeynep Gürler and Mohammed Amine Gharsallaoui. Please contact zeynepgurler1998@gmail.com for inquiries. Thanks.
  
