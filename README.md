@@ -83,7 +83,7 @@ To add.
 # Please Cite the Following paper when using GRN:
 
 @article{gurler2022, <br/>
-title={Graph registration network for boosting diagnosis of neurological disorders}<br/>
+title={Graph registration network for boosting diagnosis of neurological disorders},<br/>
 author={Gurler Zeynep, Gharsallaoui Mohamed Amine, Rekik Islem}, <br/>
 journal={Computerized Medical Imaging and Graphics},<br/>
 volume={}, <br/>
