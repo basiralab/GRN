@@ -84,7 +84,7 @@ To add.
 
 @article{gurler2020, title={Graph registration network for boosting diagnosis of neurological disorders, <br/>
 author={Gurler Zeynep, Gharsallaoui Mohamed Amine, Rekik Islem}, <br/>
-journal={Computerized Medical Imaging and Graphics},
+journal={Computerized Medical Imaging and Graphics},<br/>
 volume={}, <br/>
 pages={}, <br/>
 year={2022}, <br/>
