@@ -80,16 +80,15 @@ Network Normalization for Integrating Multi-view Networks (netNorm): Dhifallah, 
 
 To add.
 
-# Please Cite the Following paper when using gGAN:
+# Please Cite the Following paper when using GRN:
 
-@article{gurler2020, title={ Foreseeing Brain Graph Evolution Over Time
-Using Deep Adversarial Network Normalizer}, <br/>
-author={Gurler Zeynep, Nebli Ahmed, Rekik Islem}, <br/>
-journal={Predictive Intelligence in Medicine International Society and Conference Series on Medical Image Computing and Computer-Assisted Intervention},
+@article{gurler2020, title={Graph registration network for boosting diagnosis of neurological disorders, <br/>
+author={Gurler Zeynep, Gharsallaoui Mohamed Amine, Rekik Islem}, <br/>
+journal={Computerized Medical Imaging and Graphics},
 volume={}, <br/>
 pages={}, <br/>
-year={2020}, <br/>
-publisher={Springer} <br/>
+year={2022}, <br/>
+publisher={Elsevier} <br/>
 }<br/>
 
 
